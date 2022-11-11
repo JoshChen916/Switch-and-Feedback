@@ -1,3 +1,4 @@
+ //reference: https://www.youtube.com/watch?v=CP6U9R3w3xg
 const int buttonPin=7 ;
 const int LEDCOUNT=3;
 int LEDPins[]={2,3,4,5,6};
